@@ -1,3 +1,51 @@
+# 0. License --------------------------------------------------------------
+#
+# ʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘ
+#                          Artëm Sozontov ©
+# ʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘ
+# _________________________________________________________________________
+# This code is stored on the GitHub repository 
+# URL: https://github.com/ANSozontov/Gasilin_2020
+# and has a CC BY SA 4.0 licence 
+# URL: https://creativecommons.org/licenses/by-sa/4.0/ 
+# 
+#                         What does it mean? 
+# 
+# You are free to use, transform and distribute this code or its parts, 
+# including commercial purposes. Just keep in mind only two restrictions: 
+# `BY`: You are obligated to cite the article where authorship was claimed:
+#     Gasilin V.V., Devjashin M.M., Plasteeva N.A., Sozontov A.N. 2021. 
+#     Holocene variation in the species diversity and relative abundance 
+#     of ungulates in the Eurasian forest steppe // Zoologichesky Zhurnal. 
+#     Vol. 100. № 12. P. 1401–1421.
+# `SA`: You are obligated to publish and distribute you derivate code 
+#     under the license not stricter than the current one (CC-BY-SA). 
+# _________________________________________________________________________
+
+# ʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘ
+#                          Артём Созонтов ©
+# ʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘʘ
+# _________________________________________________________________________
+# Код размещен на репозитории GitHub 
+# URL: https://github.com/ANSozontov/Gasilin_2020
+# и распространяется под лицензией CC BY SA 4.0 
+# URL: https://creativecommons.org/licenses/by-sa/4.0/ 
+# 
+#                         Что это означает? 
+# 
+# Вы можете свободно использовать, модифицировать и распространять этот код
+# (включая коммерческое использование), учитывая лишь два ограничения:
+# `BY`: Используя данный скрипт или его фрагменты вы обязаны процитировать 
+#     статью, где было заявлено авторство: Гасилин В.В., Девяшин М.М., 
+#     Пластеева Н.А., Созонтов А.Н. 2021. Изменения состава и относительного 
+#     обилия копытных евразийской лесостепной зоны в голоцене // Зоологический 
+#     журнал. Т. 100. № 12. С. 1401–1421.
+# `SA`: Вы обязаны публиковать и распространять свой собственный код, 
+#     производный от данного, под лицензией не строже чем текущая - СС-BY-SA
+# _________________________________________________________________________
+
+
+
 # LOAD --------------------------------------------------------------------
 library(tidyverse)
 library(vegan)
