@@ -5,9 +5,9 @@ Source code of data processing for the article under the [Creative Commons Attri
 ## Гасилин В.В., Девяшин М.М., Пластеева Н.А., Созонтов А.Н. 2021. Изменения состава и относительного обилия копытных евразийской лесостепной зоны в голоцене // Зоологический журнал. Т. 100. № 12. С. 1401–1421.
 
 
-You are free to use, transform and distribute this code or its parts, including commercial purposes. Just keep in mind only two restrictions: (1) `BY`: You are obligated to cite the article where authorship was claimed (see above); (2): `SA`: You are obligated to publish and distribute you derivate code under the license not stricter than the current one (CC-BY-SA)
+You are free to use, transform and distribute this code or its parts, including commercial purposes. Just keep in mind only two restrictions: (1) `BY`: You are obligated to cite the article where authorship was claimed (see above); (2): `SA`: You are obligated to publish and distribute you derivate code under the license not stricter than the current one (`CC-BY-SA`).
 
-Вы можете свободно использовать, модифицировать и распространять этот код или его фрагменты (включая коммерческое использование), учитывая лишь два ограничения: (1) `BY`: Используя данный скрипт или его фрагменты вы обязаны процитировать cтатью, где было заявлено авторство (см. выше); (2) `SA`: Вы обязаны публиковать и распространять свой собственный код, производный от данного, под лицензией не строже чем текущая - СС-BY-SA
+Вы можете свободно использовать, модифицировать и распространять этот код или его фрагменты (включая коммерческое использование), учитывая лишь два ограничения: (1) `BY`: Используя данный скрипт или его фрагменты вы обязаны процитировать cтатью, где было заявлено авторство (см. выше); (2) `SA`: Вы обязаны публиковать и распространять свой собственный код, производный от данного, под лицензией не строже чем текущая - `СС-BY-SA`.
 
 
 
