@@ -11,11 +11,12 @@ You are free to use, transform and distribute this code or its parts, including 
 Вы можете свободно использовать, модифицировать и распространять этот код или его фрагменты (включая коммерческое использование), учитывая лишь два ограничения: (1) `BY`: Используя данный скрипт или его фрагменты вы обязаны процитировать cтатью, где было заявлено авторство (см. выше); (2) `SA`: Вы обязаны публиковать и распространять свой собственный код, производный от данного, под лицензией не строже чем текущая - `СС-BY-SA`.
 
 
+This work is licensed under a [Creative Commons Attribution 4.0 International](LICENSE).
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY 4.0][cc-by-image]][cc-by]
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://licensebuttons.net/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg
